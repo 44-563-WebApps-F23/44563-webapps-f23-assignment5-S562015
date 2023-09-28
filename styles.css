@@ -19,8 +19,8 @@
     background-color: #f7f7f7;
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .col-sm-2, .col-md {
         font-size: 16px;
     }
-}
+} */
